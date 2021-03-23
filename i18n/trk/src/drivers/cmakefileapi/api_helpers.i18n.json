@@ -7,5 +7,6 @@
 	"failed.writing.to.file": "{0} dosyasına yazılamadı",
 	"cache.object.version": "cmake-file-api'nin önbellek nesne sürümü ({0}.{1}) beklenmiyordu. Beklenen ({2}.{3}). IntelliSense yapılandırması yanlış olabilir.",
 	"cache.entry.unknowntype": "Bilinmeyen önbellek girdisi türü: {0}.",
-	"code.model.version": "cmake-file-api'nin kod modeli sürümü ({0}.{1}) beklenmiyordu. Beklenen ({2}.{3}). IntelliSense yapılandırması yanlış olabilir."
+	"code.model.version": "cmake-file-api'nin kod modeli sürümü ({0}.{1}) beklenmiyordu. Beklenen ({2}.{3}). IntelliSense yapılandırması yanlış olabilir.",
+	"toolchains.object.version": "Toolchains object version ({0}.{1}) of cmake-file-api is unexpected. Expecting ({2}.{3}). IntelliSense configuration may be incorrect."
 }
